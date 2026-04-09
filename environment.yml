@@ -21,3 +21,8 @@ dependencies:
 - pip
 - pip:
   - tensorflow
+  - keras
+  - torch
+  - shap
+  - xgboost
+  - polar
